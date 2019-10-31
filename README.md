@@ -13,7 +13,7 @@ But that's no reason to worry, because SOAP and CURL are more or less the same. 
 
 When we call the wsdl http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl of this Vat API in the browser, to be able to process our request and also what data will be returned as an answer.
 
-![VIES wsdl](/images/VIES_wsdl.png)
+![VIES wsdl](VIES_wsdl.png)
 
 ## Scheme of a VAT check
 
