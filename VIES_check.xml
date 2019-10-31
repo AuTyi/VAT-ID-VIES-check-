@@ -1,0 +1,8 @@
+<s11:Envelope xmlns:s11='http://schemas.xmlsoap.org/soap/envelope/'>
+  <s11:Body>
+    <tns1:checkVat xmlns:tns1='urn:ec.europa.eu:taxud:vies:services:checkVat:types'>
+      <tns1:countryCode>COUNTRYCODE</tns1:countryCode>
+      <tns1:vatNumber>VATNUMBER</tns1:vatNumber>
+    </tns1:checkVat>
+  </s11:Body>
+</s11:Envelope>
