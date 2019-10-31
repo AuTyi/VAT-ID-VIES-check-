@@ -1,6 +1,6 @@
-# VAT-ID-VIES-check-
+# VAT-ID VIES check
 
-VIES VAT number validation
+VIES VAT number validation with simple request.
 
 You can verify the validity of a VAT number issued by any EU Member State by selecting that Member State from the drop-down menu provided, and entering the number to be validated.
 http://ec.europa.eu/taxation_customs/vies/vatRequest.html
